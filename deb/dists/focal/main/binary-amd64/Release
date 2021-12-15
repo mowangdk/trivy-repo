@@ -1,0 +1,5 @@
+Component: main
+Origin: mowangdk.github.io/trivy-repo/deb
+Label: github.io/mowangdk
+Architecture: amd64
+Description: Trivy repository

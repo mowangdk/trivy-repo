@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: mowangdk.github.io/trivy-repo/deb
+Label: github.io/mowangdk
+Codename: focal
+Date: Wed, 15 Dec 2021 13:18:45 UTC
+Architectures: i386 amd64 arm64
+Components: main
+Description: Trivy repository
+MD5Sum:
+ 1996aef9ade322293158ef49dce12ebc 489 main/binary-i386/Packages
+ 0e54e17c0a87b8e664c311edcc64f721 368 main/binary-i386/Packages.gz
+ 26b801cf42aa745e1328fe07a89ae4a1 133 main/binary-i386/Release
+ 97f17a6d8225b96696b4643d597b428e 491 main/binary-amd64/Packages
+ f1d772df769db9c1383121919e5a591a 372 main/binary-amd64/Packages.gz
+ fbdb169eae734cb5266fce3947052a69 134 main/binary-amd64/Release
+ efa399b209ea76f33598c05cd7e01f91 491 main/binary-arm64/Packages
+ 4829704e133d529aa535e140491df8db 371 main/binary-arm64/Packages.gz
+ 68d59fe899d160b6882b4ab167d0687b 134 main/binary-arm64/Release
+SHA1:
+ 82ffc522ccd836bf569c2aba9de382b3556d045f 489 main/binary-i386/Packages
+ 6b13768cd51d1e96e636a4b80f1ac682d0e93d84 368 main/binary-i386/Packages.gz
+ aaf09702a79fe5c89f61e01354b22c2d06a2d95c 133 main/binary-i386/Release
+ 2423f9f7dec68ec497d589ffe7b11f7ef97e2038 491 main/binary-amd64/Packages
+ 43b00bdc1f084a623d8a0376098b2fa9a9d66586 372 main/binary-amd64/Packages.gz
+ 88db16a4e5f98d70947aab7a256d62c88cd73fe2 134 main/binary-amd64/Release
+ 231fc8e111c6b685171d3b06d0843b03bd046e89 491 main/binary-arm64/Packages
+ d0cc4f19347d9a4a7e1c9f9b248d6f9b588e1765 371 main/binary-arm64/Packages.gz
+ c4545d922b131531d12a8e92c5aca73b6df4abfd 134 main/binary-arm64/Release
+SHA256:
+ 11c708c6c32dcc54ca6ec2f606c429f798d017b2bc079a7f73fbfbea56b870a3 489 main/binary-i386/Packages
+ 1bc19e23c66fd7dd8a6d28801ca145ea42f3ffcf90d75a9439fc36558bec542c 368 main/binary-i386/Packages.gz
+ af75f7aaa582c17ce3677472fd9149f68fe298b0b11ff39a9274a84fba68cc11 133 main/binary-i386/Release
+ 40320a795ade8f279f84e79f913df43e395887808120e92b346ef142b0d96d8b 491 main/binary-amd64/Packages
+ 5117aec78cebd50972a2c99cb0712363573e8128c9779ef13e94cee9367133be 372 main/binary-amd64/Packages.gz
+ a5f5fd924c6cef15e2fd67c7c269bc96907830c1cdcaff22ebf3ad6e2bebd73a 134 main/binary-amd64/Release
+ 994dd3f294bac2fe72b4aa6cde700a6abf3b3c65a61874826c3e2635157ba6c2 491 main/binary-arm64/Packages
+ 8151768c4cd00180a22f37e855062ce62d401fb64de9a8c34ef60802b04d88f6 371 main/binary-arm64/Packages.gz
+ 5a2c9a63ed147936226c84efaed96e219d2ae5366a78565bc800701c1228480d 134 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEExDL1P7+nU3CLmrjegfJg3dhPGwUFAmG56zUACgkQgfJg3dhP
+GwVFNgv+OS9Ac5ju4n7v09MXdaRZ3KHx8BdN7tFtnuvSidSCJI+Tnmb22YQMqM59
+OH3AvbsvjR7IsAZ2JkdAvm0N+4CmvYR6H0z4HSwgYys/ydbQEvOgWAxvlre1l79H
+8/M6rhMDR96x9u2g4P14pUwDSxG1qVUPTqJpXPOFihu9rU7SNgvleEHc6/2GBKCf
+nZmx+ISzug4ZuWqd+m+JaQRot3ezbnPofkE8V6Bao33CP34Ui+gbyZuwDGPWZF8N
+RFSXM7G7e7PgNEOLr4iFzS3j/BKgcJwSPjNIfrbK0+Im9m6Ft7RxSMGIZ72yghhN
+7GU2DrE6+1oZ+9qAfP8BO6UfXu+dkPWfGHHliEAu13NIm9Lt/Me87RHYf55Q5HEm
+E+JFSuoiOoy8wNuC05HxoAb8vQh5lQdLVS9aq9kQCCbCJBkEcNp/39UpbYN4sFLI
+GtzzGJ7CE/NMPWvUHtRPV6TLVPlZEtGJXpqvvAaPA5WGHElwIuwbO7tLVoeVh5rO
+CIP/ls3r
+=rhJG
+-----END PGP SIGNATURE-----
